@@ -4,7 +4,7 @@ public class Main {
         groupOne.add(
                 new Cat(10),
                 new Cat(200),
-                new Dog(50, 150)
+                new Dog(60, 150)
         );
 
 
